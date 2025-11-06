@@ -1,1 +1,2 @@
 this is file 3 created localy
+this line add bug fix
