@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is the file we will miss it later
 new line in file 4 before merge
+=======
+this is my owoo staff right here my man 
+>>>>>>> newfeature
